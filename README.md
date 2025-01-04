@@ -5,7 +5,7 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 ## <p align="center"><h4 align="center"><samp> An Python Trainer,C Language Trainer,An Open Source Contributor, </samp></h4></p>
 
 <div>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&psig=AOvVaw0dEXSPvVKMBUMpVBxmmOht&ust=1736083530691000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDhksOV3IoDFQAAAAAdAAAAABAE" width="40%"/>
+<img align="right" src=""C:\Users\pruth\Downloads\360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"" width="40%"/>
 
 
 
