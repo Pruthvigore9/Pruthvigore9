@@ -2,13 +2,8 @@
 
 Python Trainer ,C Language Trainer,An Open source Contributor
 
-🔭 I’m currently working as a Online Trainer
+## <p align="center"><h4 align="center"><samp> An Python Trainer,C Language Trainer,An Open Source Contributor, </samp></h4></p>
 
-🌱 I’m currently learning DataAnalysis
-
-👯 I’m looking to collaborate on Github
-
-💬 Ask me about Python & C Langugage
 
 Skills and Languages
 
