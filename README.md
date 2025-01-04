@@ -8,16 +8,8 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 
 👯 I’m looking to collaborate on Github
 
-💬 Ask me about Python
+💬 Ask me about Python & C Langugage
 
-Skills and Languages
-
-Rapspberry Pi C++
-
-C Python MySQL HTML5 CSS3
-
-Java
-drawing drawing drawing drawing drawing drawing drawing drawing 
 
 
 
