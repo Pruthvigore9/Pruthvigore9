@@ -12,7 +12,8 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 
 Skills and Languages
 
-![image](https://github.com/user-attachments/assets/87bf07e1-4df0-41d9-8dcd-4e0c06bc0ac9) ![image](https://github.com/user-attachments/assets/b75c648f-9684-4c7d-96eb-03998b8bf802)
+![image](https://github.com/user-attachments/assets/87bf07e1-4df0-41d9-8dcd-4e0c06bc0ac9) 
+![image](https://github.com/user-attachments/assets/b75c648f-9684-4c7d-96eb-03998b8bf802)
 
 
 
