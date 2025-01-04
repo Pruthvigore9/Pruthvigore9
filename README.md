@@ -1,8 +1,5 @@
-## Hi there 👋
+## Hey Everyone! I'm Pruthvisai Gore  👋
 
-![C Language symbol](https://github.com/user-attachments/assets/0c4f255e-d152-49ac-8003-6819f0575dc2)
-
-![Python-logo-notext svg](https://github.com/user-attachments/assets/847db306-ddc8-4be2-af4f-061eb41943e8)
 
 
 
