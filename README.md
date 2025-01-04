@@ -4,12 +4,17 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 
 ## <p align="center"><h4 align="center"><samp> An Python Trainer,C Language Trainer,An Open Source Contributor, </samp></h4></p>
 
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
+  
+- 🔭 I’m currently working as a online trainer
+- 🌱 I’m currently learning DataAnalysis
+- 👯 I’m looking to collaborate on Github
+- 💬 Ask me about Python & C Language
 
-Skills and Languages
-
-![image](https://github.com/user-attachments/assets/87bf07e1-4df0-41d9-8dcd-4e0c06bc0ac9) 
-![image](https://github.com/user-attachments/assets/b75c648f-9684-4c7d-96eb-03998b8bf802)
-
+  <br>
+</div>
 
 
 
