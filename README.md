@@ -3,11 +3,8 @@
 Python Trainer ,C Language Trainer,An Open source Contributor
 
 🔭 I’m currently working as a Online Trainer
-
 🌱 I’m currently learning DataAnalysis
-
 👯 I’m looking to collaborate on Github
-
 💬 Ask me about Python
 
 
