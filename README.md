@@ -30,18 +30,18 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://wakatime.com/@Voko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pruthvi&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://github.com/Pruthvigore9?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Pruthvigore9&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-<a href="https://github.com/Pruthvigore9?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Pruthvigore9&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
+<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Pruthvi's wakatime stats"/></a>
+<a href="https://wakatime.com/@Pruthvi#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pruthvi&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Pruthvi's wakatime stats"/></a>
+<a href="https://github.com/Pruthvigore9?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Pruthvigore9&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Pruthvi's trophy stats"/></a>
+<a href="https://github.com/Pruthvigore9?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Pruthvigore9&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Pruthvi's trophy stats"/></a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3APruthvigore9+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pruthvigore9&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pruthvigore9&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleksey-Voko&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pruthvigore9&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3APruthvigore9+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pruthvigore9&theme=github_dark&utcOffset=4"  width="31%" alt="@Pruthvi's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pruthvigore9&theme=github&utcOffset=4"  width="31%" alt="@Pruthvi's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3APruthvigore9+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pruthvigore9&theme=github_dark&hide_border=true"  width="64%" alt="@Pruthvi's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Pruthvigore9+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pruthvigore9&theme=github&hide_border=true"  width="64%" alt="@Pruthv's profile-details"/></a>
 </p>
 
 
@@ -50,21 +50,21 @@
 
 <p align="center">
     <a href="https://www.codewars.com/users/Pruthvigore9">
-        <img alt="codewars badge" src="https://www.codewars.com//users/Aleksey-Voko/badges/large">
+        <img alt="codewars badge" src="https://www.codewars.com//users/Pruthvigore9/badges/large">
     </a>
 </p>
 
 
 <p align="center">
 <a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/Aleksey-Voko?tab=following"><img src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/Aleksey-Voko?tab=followers"><img src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social" alt="GitHub followers"></a>
+<a href="https://github.com/Pruthvigore9?tab=following"><img src="https://img.shields.io/github/stars/Pruthvigore9?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+<a href="https://github.com/Pruthvigore9?tab=followers"><img src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 
 <p align="center">
 <a href="https://stackexchange.com/users/17728350/Pruthvigore9?tab=accounts#gh-dark-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника Pruthvi gore9 в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Pruthvi gore9 в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
-<a href="https://stackexchange.com/users/17728350/Pruthvigore9?tab=accounts#gh-light-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=light" width="208" height="58" alt="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Pruthvi gore  в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+<a href="https://stackexchange.com/users/17728350/Pruthvigore9?tab=accounts#gh-light-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=light" width="208" height="58" alt="Профиль участника Pruthvi Gore в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Pruthvi gore  в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
 <a href="https://stackoverflow.com/users/13531449/aleksey-voko#gh-dark-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=dark&layout=compact"></a>
 <a href="https://stackoverflow.com/users/13531449/aleksey-voko#gh-light-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=light&layout=compact"></a>
 </p>
