@@ -36,6 +36,16 @@ Python Trainer ,C Language Trainer,An Open source Contributor
   </span>
     
 ##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+  
+
 
 
 
