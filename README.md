@@ -2,11 +2,6 @@
 
 
 
-
-
-
-<a href="https://askubuntu.com/users/1561126/aleksey-voko"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
-<a href="https://freelance.habr.com/freelancers/Voko_Aleksey"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
 <a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Клуб дедов-программистов"></a>
 <a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
 <a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
