@@ -47,15 +47,6 @@
 <a href="https://wakatime.com/@Pruthvi"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/Pruthvigore9?tab=following"><img src="https://img.shields.io/github/stars/Pruthvigore9?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/Pruthvigore9?tab=followers"><img src="https://img.shields.io/github/followers/Pruthvigore9?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p>
-
-
-
-
-
-<p align="center">
-<a href="https://gist.github.com/Pruthvigore9"><img src="https://profile-counter.glitch.me/{Pruthvigore9}/count.svg" alt="Pruthvigore9 :: Visitor's Count" /></a>
-</p>
 
 
 <!--
