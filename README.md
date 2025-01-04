@@ -12,11 +12,12 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 
 Skills and Languages
 
-![Python-logo-notext svg-removebg-preview](https://github.com/user-attachments/assets/b90bbde1-414c-4f81-9233-1edb463281d9)
+![image](https://github.com/user-attachments/assets/b75c648f-9684-4c7d-96eb-03998b8bf802)
 
 
 
-![image](https://github.com/user-attachments/assets/b25504e1-f669-49d8-b598-ecbab1c6abfe)
+
+
 
 
 
