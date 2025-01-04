@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![Untitled](https://github.com/user-attachments/assets/812d76bc-ce13-4e70-80fe-5b07b7737614)
+![C Language symbol](https://github.com/user-attachments/assets/0c4f255e-d152-49ac-8003-6819f0575dc2)
+
+![Python-logo-notext svg](https://github.com/user-attachments/assets/847db306-ddc8-4be2-af4f-061eb41943e8)
+
 
 
 
