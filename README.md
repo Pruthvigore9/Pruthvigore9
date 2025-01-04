@@ -10,6 +10,14 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 
 💬 Ask me about Python & C Langugage
 
+Skills and Languages
+
+![image](https://github.com/user-attachments/assets/46ebf689-fc19-49e7-b0cf-b1fcbd2e7253)
+
+![image](https://github.com/user-attachments/assets/b25504e1-f669-49d8-b598-ecbab1c6abfe)
+
+
+
 
 
 
