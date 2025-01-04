@@ -29,13 +29,6 @@
 <!-- activity graph heroku-app end -->
 
 
-<p align="center">
-<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Pruthvi's wakatime stats"/></a>
-<a href="https://wakatime.com/@Pruthvi#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pruthvi&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Pruthvi's wakatime stats"/></a>
-<a href="https://github.com/Pruthvigore9?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Pruthvigore9&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Pruthvi's trophy stats"/></a>
-<a href="https://github.com/Pruthvigore9?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Pruthvigore9&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Pruthvi's trophy stats"/></a>
-</p>
-
 
 <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3APruthvigore9+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pruthvigore9&theme=github_dark&utcOffset=4"  width="31%" alt="@Pruthvi's productive-time"/></a>
