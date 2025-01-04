@@ -48,11 +48,6 @@
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 
-<p align="center">
-    <a href="https://www.codewars.com/users/Pruthvigore9">
-        <img alt="codewars badge" src="https://www.codewars.com//users/Pruthvigore9/badges/large">
-    </a>
-</p>
 
 
 <p align="center">
