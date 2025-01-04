@@ -10,6 +10,15 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 
 💬 Ask me about Python
 
+Skills and Languages
+
+Rapspberry Pi C++
+
+C Python MySQL HTML5 CSS3
+
+Java
+drawing drawing drawing drawing drawing drawing drawing drawing 
+
 
 
 
