@@ -5,7 +5,7 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 ## <p align="center"><h4 align="center"><samp> An Python Trainer,C Language Trainer,An Open Source Contributor, </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+
   <br>
   
 - 🔭 I’m currently working as a online trainer
