@@ -2,10 +2,9 @@
 
 
 
-<a href="mailto:voko.aleksey@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/voko_aleksey"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
-<a href="https://ru.stackoverflow.com/users/371584/aleksey-voko"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="ru.stackoverflow profile"></a>
-<a href="https://stackoverflow.com/users/13531449/aleksey-voko"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
+
+
+
 <a href="https://askubuntu.com/users/1561126/aleksey-voko"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
 <a href="https://freelance.habr.com/freelancers/Voko_Aleksey"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
 <a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Клуб дедов-программистов"></a>
