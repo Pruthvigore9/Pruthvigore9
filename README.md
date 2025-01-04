@@ -56,17 +56,17 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
+<a href="https://wakatime.com/@Pruthvi"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/Pruthvigore9?tab=following"><img src="https://img.shields.io/github/stars/Pruthvigore9?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/Pruthvigore9?tab=followers"><img src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social" alt="GitHub followers"></a>
+<a href="https://github.com/Pruthvigore9?tab=followers"><img src="https://img.shields.io/github/followers/Pruthvigore9?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 
 <p align="center">
 <a href="https://stackexchange.com/users/17728350/Pruthvigore9?tab=accounts#gh-dark-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника Pruthvi gore9 в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Pruthvi gore9 в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
 <a href="https://stackexchange.com/users/17728350/Pruthvigore9?tab=accounts#gh-light-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=light" width="208" height="58" alt="Профиль участника Pruthvi Gore в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Pruthvi gore  в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
-<a href="https://stackoverflow.com/users/13531449/aleksey-voko#gh-dark-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=dark&layout=compact"></a>
-<a href="https://stackoverflow.com/users/13531449/aleksey-voko#gh-light-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=light&layout=compact"></a>
+<a href="https://stackoverflow.com/users/13531449/Pruthvigore9#gh-dark-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=dark&layout=compact"></a>
+<a href="https://stackoverflow.com/users/13531449/Pruthvigore9 #gh-light-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=light&layout=compact"></a>
 </p>
 
 
