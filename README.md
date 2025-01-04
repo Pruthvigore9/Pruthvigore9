@@ -16,7 +16,7 @@
 </p>
 
 
-<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
+<a href="https://https://www.programiz.com/online-compiler/6I9ed9cXlbu21><img src="./assets/colored.png"  width="100%" alt="https://www.programiz.com/online-compiler/6I9ed9cXlbu21/></a>
 
 
 <!-- activity graph heroku-app start -->
