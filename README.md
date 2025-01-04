@@ -31,7 +31,7 @@ Python Trainer ,C Language Trainer,An Open source Contributor
 
 
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
->
+
 
   </span>
     
