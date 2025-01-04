@@ -1,5 +1,7 @@
 ## Hey Everyone! I'm Pruthvisai Gore  👋
 
+Python Trainer ,C Language Trainer,An Open source Contributor
+
 
 
 
